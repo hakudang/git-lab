@@ -4,3 +4,5 @@ dong tam thoi
 
 - Note: feature adds a section
 -Buoi 2: rebase and merge
+
+-Buoi 3: Remote, Tracking Branch, push/pull
