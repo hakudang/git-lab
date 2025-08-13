@@ -2,8 +2,8 @@
 ## Buoi 1: Co ban
 dong tam thoi
 
-- Note: feature adds a section
-## Buoi 2: rebase and merge
+- Note: feature adds a section  
+## Buoi 3: gia lap cap tu team
 
-## Buoi 3: Remote, Tracking Branch, push/pull
-- Note: gia lap cap nhat tu team
+- Note: feature adds 2 new commits
+- Note: Gia lap cap nhat tu team
