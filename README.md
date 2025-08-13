@@ -6,3 +6,5 @@ dong tam thoi
 -Buoi 3: gia lap cap tu team
 
 - Note: feature adds 2 new commits
+
+- Note: Gia lap cap nhat tu team
